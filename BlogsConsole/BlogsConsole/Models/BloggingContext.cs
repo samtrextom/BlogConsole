@@ -19,5 +19,11 @@ namespace BlogsConsole.Models
             this.Blog.Add(blog);
             this.SaveChanges();
         }
+
+        public void AddPost(Post post)
+        {
+            this.Post.Add(post);
+            this.SaveChanges();
+        }
     }
 }
