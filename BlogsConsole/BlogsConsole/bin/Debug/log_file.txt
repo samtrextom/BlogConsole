@@ -1,0 +1,22 @@
+2019-03-15 09:35:46.1342|INFO|BlogsConsole.MainClass|Program started
+2019-03-15 09:35:49.4189|INFO|BlogsConsole.MainClass|Blog added - "WoW"
+2019-03-15 09:35:49.4413|INFO|BlogsConsole.MainClass|Program ended
+2019-03-15 09:37:43.8505|INFO|BlogsConsole.MainClass|Program started
+2019-03-15 09:37:47.6386|INFO|BlogsConsole.MainClass|Blog added - "Sam"
+2019-03-15 09:38:10.2869|INFO|BlogsConsole.MainClass|Program ended
+2019-03-15 09:38:13.4741|INFO|BlogsConsole.MainClass|Program started
+2019-03-15 09:38:18.2623|INFO|BlogsConsole.MainClass|Blog added - "Blog1"
+2019-03-15 09:38:39.9029|INFO|BlogsConsole.MainClass|Program ended
+2019-03-15 09:38:56.7509|INFO|BlogsConsole.MainClass|Program started
+2019-03-15 09:38:59.4832|INFO|BlogsConsole.MainClass|Blog added - "Blog2"
+2019-03-15 09:39:12.3990|INFO|BlogsConsole.MainClass|Program ended
+2019-03-15 09:41:12.4934|INFO|BlogsConsole.MainClass|Program started
+2019-03-15 09:41:16.6194|INFO|BlogsConsole.MainClass|Blog added - "Blog3"
+2019-03-15 09:41:18.2941|INFO|BlogsConsole.MainClass|Program ended
+2019-03-15 09:43:50.0299|INFO|BlogsConsole.MainClass|Program started
+2019-03-15 09:43:54.2382|INFO|BlogsConsole.MainClass|Blog added - "Blog4"
+2019-03-15 09:43:55.7751|INFO|BlogsConsole.MainClass|Program ended
+2019-03-29 07:48:21.0764|INFO|BlogsConsole.MainClass|Program started
+2019-03-29 08:00:03.6133|INFO|BlogsConsole.MainClass|Program started
+2019-03-29 08:03:21.5883|INFO|BlogsConsole.MainClass|Program started
+2019-03-29 08:04:06.3700|INFO|BlogsConsole.MainClass|Program started
